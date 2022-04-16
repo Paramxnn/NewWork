@@ -1,3 +1,2 @@
 #demoproject
 
-Latihan Git
